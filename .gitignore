@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+[credential]
+helper = store -–file .git-credentials
